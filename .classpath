@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="src" path="Features"/>
+	<classpathentry kind="src" path="StepDefinitions"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Raghunath Satya/Documents/Eclipse/selenium_java/client-combined-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raghunath Satya/Downloads/cucumber-core-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raghunath Satya/Downloads/cucumber-java-1.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raghunath Satya/Downloads/cucumber-junit-2.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raghunath Satya/Downloads/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raghunath Satya/Downloads/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raghunath Satya/Downloads/jenkins-core-2.60.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raghunath Satya/Documents/Eclipse/selenium_java/selenium-server-standalone-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raghunath Satya/Documents/Eclipse/selenium_java/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raghunath Satya/Documents/Eclipse/selenium_java/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raghunath Satya/Documents/Eclipse/selenium_java/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raghunath Satya/Documents/Eclipse/selenium_java/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raghunath Satya/Documents/Eclipse/selenium_java/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raghunath Satya/Documents/Eclipse/selenium_java/libs/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raghunath Satya/Documents/Eclipse/selenium_java/libs/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raghunath Satya/Documents/Eclipse/selenium_java/libs/okhttp-3.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raghunath Satya/Documents/Eclipse/selenium_java/libs/okio-1.14.1.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
